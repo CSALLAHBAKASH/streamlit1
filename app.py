@@ -8,7 +8,7 @@ def main():
     my doc string
     """
     st.title("My Streamlit App")
-    st.write("Welcome to my Streamlit app!")
+    st.write("this is my first application in streamlit!")
 
     # Add your Streamlit app code here
 
